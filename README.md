@@ -21,4 +21,6 @@ Interactive Power BI dashboard
 Clean data model with calculated columns and measures
 .pbix file included for review and exploration
 Purpose
-This project demonstrates my ability to translate customer data into structured insights using Power BI, combining revenue analysis, segmentation, and behavioral logic.
+This project demonstrates my ability to translate customer data into structured insights using Power BI, combining revenue analysis, segmentation, and behavioral logic. 
+I got this dataset from kaggle and i have attched the csv file and pbix file
+
